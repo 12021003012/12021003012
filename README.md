@@ -72,15 +72,25 @@ current_learning:
 
 ---
 
-# 🏆 Achievements
+# 🏅 Career Highlights
 
-- 🥇 Madhyamik Rank 11 in West Bengal
-- 🎓 CGPA 9.64/10
-- 🏅 Director's Choice Award
-- 🏆 3× Academic Excellence Awards
-- 📚 IEEE Publication – Audio Deepfake Detection
-- 📜 2 Patents Filed
-- 🎯 JEE Main 95.85 Percentile
+🏆 3× Academic Excellence Award Recipient
+
+📚 IEEE Published Researcher
+
+📜 Patent Inventor
+
+🥇 Madhyamik Rank 11 in West Bengal
+
+🎯 JEE Main 95.85 Percentile
+
+🎓 CGPA 9.64/10
+
+🤖 Artificial Intelligence Engineer @ AMI
+
+🏅 Director's Choice Award
+
+---
 
 ---
 
@@ -176,6 +186,22 @@ Generative AI Platform for Sustainable Manufacturing and Circular Economy.
 
 ---
 
+
+# 🧠 AI Skills Matrix
+
+| Area | Technologies |
+|--------|-------------|
+| Agentic AI | LangGraph, LangChain |
+| LLMs | OpenAI, Gemini, Ollama |
+| RAG | Vector Databases, Embeddings |
+| MLOps | MLflow, Airflow |
+| Deployment | FastAPI, Docker, Kubernetes |
+| Infrastructure | OpenBMC, Redfish |
+| Databases | PostgreSQL, MongoDB |
+| Cloud | AWS |
+
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -192,6 +218,26 @@ Generative AI Platform for Sustainable Manufacturing and Circular Economy.
 
 ---
 
+
+# 📈 Contribution Graph
+
+[![Deep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=12021003012&theme=tokyo-night)](https://github.com/12021003012)
+
+---
+
+# 📊 Engineering Dashboard
+
+| Category | Details |
+|-----------|-----------|
+| 🔭 Currently Building | Agentic AI Systems |
+| 🌱 Learning | LLM Fine-Tuning, MCP Servers |
+| ☁️ Cloud | AWS, Docker, Kubernetes |
+| 🤖 AI Focus | LangGraph, RAG, Multi-Agent Systems |
+| 🏢 Company | American Megatrends International (AMI) |
+| 🎯 Goal | Building Production-Grade Enterprise AI Systems |
+
+---
+
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -199,17 +245,44 @@ Generative AI Platform for Sustainable Manufacturing and Circular Economy.
 </p>
 
 ---
-# 🐍 Contribution Snake
 
-![GitHub Snake Light](https://raw.githubusercontent.com/12021003012/12021003012/output/github-snake.svg#gh-light-mode-only)
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/12021003012/12021003012/output/github-snake-dark.svg#gh-dark-mode-only)
+# 💎 GitHub Dashboard
+
+![](https://komarev.com/ghpvc/?username=12021003012&style=for-the-badge)
+
+![](https://img.shields.io/github/followers/12021003012?style=for-the-badge)
+
+![](https://img.shields.io/github/stars/12021003012?style=for-the-badge)
 
 ---
 
-# ⚡ Fun Fact
+# 🐍 Contribution Snake
 
-From ranking 11th in West Bengal in Madhyamik to building enterprise AI systems and agentic workflows used in production.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/12021003012/12021003012/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 📊 GitHub Metrics
+
+![Metrics](https://raw.githubusercontent.com/12021003012/12021003012/main/github-metrics.svg)
+
+---
+
+# 🌌 3D Contribution Calendar
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+# ⏱ Weekly Development Breakdown
+
+```text
+Python        ████████████████░░░░░ 65%
+TypeScript    ██████░░░░░░░░░░░░░░░ 20%
+Docker        ███░░░░░░░░░░░░░░░░░░ 10%
+Kubernetes    ██░░░░░░░░░░░░░░░░░░░ 5%
 
 ---
 
