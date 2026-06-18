@@ -199,16 +199,11 @@ Generative AI Platform for Sustainable Manufacturing and Circular Economy.
 </p>
 
 ---
+# 🐍 Contribution Snake
 
-## 🌐 Socials
+![GitHub Snake Light](https://raw.githubusercontent.com/12021003012/12021003012/output/github-snake.svg#gh-light-mode-only)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deep-sengupta-573363229)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-8efi.onrender.com/)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:senguptadeep03@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/12021003012)
+![GitHub Snake Dark](https://raw.githubusercontent.com/12021003012/12021003012/output/github-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
